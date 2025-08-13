@@ -51,8 +51,7 @@ I’ve built a personal fabrication lab from the ground up to satisfy my urge fo
 
 ---
 
-## 📈 GitHub Stats
-![Captain's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapitam&show_icons=true&theme=tokyonight)  
+## 📈 GitHub Status
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapitam&layout=compact&theme=tokyonight)
 
 ---
