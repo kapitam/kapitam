@@ -1,6 +1,6 @@
 # Hi, I'm Captain 👋
 
-🚀 Aspiring engineer | Robotics & autonomous systems enthusiast | Self-taught problem solver
+🚀 Aspiring Computer engineer/ Electronics engineer
 
 ---
 
@@ -22,13 +22,7 @@ I’ve built a personal fabrication lab from the ground up to satisfy my urge fo
 
 ---
 
-## 💼 Experience
-- **GISTDA Internship** — Exposure to Model Based Feedback + PID, Google Earth Engine, Agraculture monitoring with NDVI band, CubeSat, THEOS 3 Satellite, and on-site antenna operations  
-- **Synergy Internship** — Developed inverse kinematics and motion control for a hexapod robot, dived into a engineering company structure
-
----
-
-## 📊 Tech Stack & Tools
+## 📊 Know Me Better
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6600?style=for-the-badge&logo=autodesk&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -64,4 +58,4 @@ I’ve built a personal fabrication lab from the ground up to satisfy my urge fo
 
 ---
 
-> “I now realize that my way of learning doesn’t have to conform to a system made for superficial perfection.”
+> “I now realize that my way of learning doesn’t have to conform for superficial perfection.”
