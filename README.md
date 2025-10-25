@@ -1,28 +1,25 @@
-# Hi, I'm Captain 👋
+# I'm Captain
 
-🚀 Aspiring Computer engineer/ Electronics engineer
+🚀 Wannabe Computer engineer/ Electronics engineer
 
 ---
 
 ## 🛠 About Me
-I'm a 17-year-old maker from Thailand with a desire to build, experiment, and push things to their limit.  
-My engineering journey began in Grade 9, when I was finally able to buy chemical equipment for my self-taught chemistry projects.  
-Since my school didn’t offer anything related to engineering, I taught myself how to engineer, starting with chemistry, then mechanical design, then electronics, and now integrated systems.
-I’ve built a personal fabrication lab from the ground up to satisfy my urge for creation. It's become my home base for innovation, and hopefully, a space for others to create in the future.
+I make stuff from Thailand.
 
 ---
 
-## 📂 Featured Projects
-*(Some are on GitHub, others are private or under development)*
+## 📂 Projects
+*(some is private)*
 
 - **Hexapod V1** — 3-DOF per leg walking robot, developed during Synergy internship **VERSION 2 COMING SHORTLY**
-- **ESP32 Heated Chamber Controller** — P1S Chamber heater **reaching 70C!!**
-- **Gunpowder Rocket Thrust Testing** — Variable compaction/nozzle experiments with load-cell measurement  
-- **Remote Ignition Device** — ESP32 + ESP-NOW for wireless rocket ignition
+- **ESP32 Heated Chamber Controller** — P1S Chamber heater **reaching 70C!!** *before unsafe*
+- **Gunpowder Rocket Thrust Testing** — Varied compaction/nozzle experiments with load-cell measurement  
+- **Remote Ignition Device** — ESP32 + ESP-NOW
 
 ---
 
-## 📊 Know Me Better
+## 📊 I looked at breifly
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6600?style=for-the-badge&logo=autodesk&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -58,4 +55,4 @@ I’ve built a personal fabrication lab from the ground up to satisfy my urge fo
 
 ---
 
-> “I now realize that my way of learning doesn’t have to conform for superficial perfection.”
+> “I like it my way”
