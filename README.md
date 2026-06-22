@@ -1,6 +1,6 @@
 # I'm Captain
 
-🚀 Wannabe Computer engineer/ Electronics engineer
+Computer engineer/ Electronics engineer student
 
 ---
 
