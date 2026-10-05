@@ -4,12 +4,7 @@ Computer engineer/ Electronics engineer student
 
 ---
 
-## 🛠 About Me
-I make stuff from Thailand.
-
----
-
-## 📂 Projects
+## Projects
 *(some is private)*
 
 - **Hexapod V1** — 3-DOF per leg walking robot, developed during Synergy internship **VERSION 2 COMING SHORTLY**
@@ -19,7 +14,7 @@ I make stuff from Thailand.
 
 ---
 
-## 📊 I looked at breifly
+## I looked at breifly
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6600?style=for-the-badge&logo=autodesk&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -42,12 +37,12 @@ I make stuff from Thailand.
 
 ---
 
-## 📈 GitHub Status
+## GitHub Status
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapitam&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌱 Currently Learning
+## Was Learning
 - ROS 2 Humble for robotics integration  
 - SLAM for autonomous navigation  
 - Xtensa firmware compilation for ESP32  
